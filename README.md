@@ -23,6 +23,4 @@ JPA (Java Persistence API): For database interaction.
 MySQL: Relational database for storing account information.
 Usage
 
-The application provides several endpoints for managing bank accounts:
-and covers all CRUD operations 
-
+The application provides several endpoints for managing bank accounts and covers all CRUD operations:
