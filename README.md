@@ -7,7 +7,9 @@ The Banking Application is a Spring Boot-based project designed to manage bank a
 Features
 
 1)Account Management: Create, retrieve, update, and delete bank accounts.
+
 2)Deposit & Withdrawal: Add or remove funds from accounts.
+
 3)Account Retrieval: Fetch details of specific accounts or list all accounts.
 Key Components
 
